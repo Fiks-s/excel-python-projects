@@ -1,0 +1,18 @@
+# Excel временные
+~$*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Секреты
+config.py
+.env
+*.token
+
+# Системные
+.DS_Store
+Thumbs.db
+desktop.ini
